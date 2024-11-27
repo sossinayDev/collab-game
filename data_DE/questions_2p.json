@@ -1,0 +1,247 @@
+[
+    {
+        "p1": "Welches Gas wird",
+        "p2": "oft in Luftballons verwendet?",
+        "answer": "Helium"
+    },
+    {
+        "p1": "Ein berühmtes Bauwerk",
+        "p2": "in Paris ist?",
+        "answer": "Eiffelturm"
+    },
+    {
+        "p1": "Welche Stadt liegt",
+        "p2": "am Fluss Themse?",
+        "answer": "London"
+    },
+    {
+        "p1": "Der größte Mond",
+        "p2": "unseres Sonnensystems?",
+        "answer": "Ganymed"
+    },
+    {
+        "p1": "Die Hauptstadt von",
+        "p2": "Schweden ist?",
+        "answer": "Stockholm"
+    },
+    {
+        "p1": "Das meistgesprochene Wort",
+        "p2": "im Englischen ist?",
+        "answer": "The"
+    },
+    {
+        "p1": "Wo findet man",
+        "p2": "die Chinesische Mauer?",
+        "answer": "China"
+    },
+    {
+        "p1": "Das flächenmäßig größte",
+        "p2": "Land der Welt?",
+        "answer": "Russland"
+    },
+    {
+        "p1": "Die Heimat der",
+        "p2": "Olympischen Spiele ist?",
+        "answer": "Griechenland"
+    },
+    {
+        "p1": "In welcher Stadt",
+        "p2": "steht der Big Ben?",
+        "answer": "London"
+    },
+    {
+        "p1": "Der Erfinder des",
+        "p2": "Buchdrucks war?",
+        "answer": "Gutenberg"
+    },
+    {
+        "p1": "Die kleinste Einheit",
+        "p2": "im Computer ist?",
+        "answer": "Bit"
+    },
+    {
+        "p1": "Welcher Fluss fließt",
+        "p2": "durch Kairo?",
+        "answer": "Nil"
+    },
+    {
+        "p1": "Die längste Wüste",
+        "p2": "der Erde ist?",
+        "answer": "Sahara"
+    },
+    {
+        "p1": "Die Stadt der",
+        "p2": "Liebe wird genannt?",
+        "answer": "Paris"
+    },
+    {
+        "p1": "Der höchste Berg",
+        "p2": "der Alpen ist?",
+        "answer": "Mont Blanc"
+    },
+    {
+        "p1": "Welche Sprache spricht",
+        "p2": "man in Brasilien?",
+        "answer": "Portugiesisch"
+    },
+    {
+        "p1": "Welches Element hat",
+        "p2": "das Symbol 'O'?",
+        "answer": "Sauerstoff"
+    },
+    {
+        "p1": "Das erste Auto",
+        "p2": "wurde von wem erfunden?",
+        "answer": "Benz"
+    },
+    {
+        "p1": "In welcher Stadt",
+        "p2": "steht die Freiheitsstatue?",
+        "answer": "New York"
+    },
+    {
+        "p1": "Das längste Tier",
+        "p2": "der Welt ist?",
+        "answer": "Blauwale"
+    },
+    {
+        "p1": "Welches Land hat",
+        "p2": "die meisten Inseln?",
+        "answer": "Schweden"
+    },
+    {
+        "p1": "Welche Farbe hat",
+        "p2": "ein Smaragd?",
+        "answer": "Grün"
+    },
+    {
+        "p1": "Die Hauptstadt von",
+        "p2": "Argentinien heißt?",
+        "answer": "Buenos Aires"
+    },
+    {
+        "p1": "Wer schrieb den",
+        "p2": "Roman '1984'?",
+        "answer": "Orwell"
+    },
+    {
+        "p1": "Das meistverkaufte Buch",
+        "p2": "der Welt ist?",
+        "answer": "Bibel"
+    },
+    {
+        "p1": "Wo steht das",
+        "p2": "Kolosseum?",
+        "answer": "Rom"
+    },
+    {
+        "p1": "Der längste Fluss",
+        "p2": "der Welt heißt?",
+        "answer": "Nil"
+    },
+    {
+        "p1": "In welcher Stadt",
+        "p2": "liegt das Taj Mahal?",
+        "answer": "Agra"
+    },
+    {
+        "p1": "Der größte Kontinent",
+        "p2": "der Erde ist?",
+        "answer": "Asien"
+    },
+    {
+        "p1": "Welche Stadt ist",
+        "p2": "die Hauptstadt von Australien?",
+        "answer": "Canberra"
+    },
+    {
+        "p1": "Wer entwickelte die",
+        "p2": "Relativitätstheorie?",
+        "answer": "Einstein"
+    },
+    {
+        "p1": "Welches Land ist",
+        "p2": "berühmt für Pizza?",
+        "answer": "Italien"
+    },
+    {
+        "p1": "Das erste Lebewesen",
+        "p2": "im All war?",
+        "answer": "Laika"
+    },
+    {
+        "p1": "Wer schrieb 'Die",
+        "p2": "Leiden des jungen Werther'?",
+        "answer": "Goethe"
+    },
+    {
+        "p1": "Die berühmte Pyramide",
+        "p2": "in Ägypten heißt?",
+        "answer": "Cheops"
+    },
+    {
+        "p1": "Welches Land exportiert",
+        "p2": "am meisten Tee?",
+        "answer": "China"
+    },
+    {
+        "p1": "Die Nordlichter sieht",
+        "p2": "man am besten?",
+        "answer": "Norwegen"
+    },
+    {
+        "p1": "Wo befindet sich",
+        "p2": "das Schloss Neuschwanstein?",
+        "answer": "Bayern"
+    },
+    {
+        "p1": "Das Symbol für",
+        "p2": "Gold ist?",
+        "answer": "Au"
+    },
+    {
+        "p1": "Die Hauptstadt von",
+        "p2": "Japan heißt?",
+        "answer": "Tokio"
+    },
+    {
+        "p1": "Welche Stadt wird",
+        "p2": "als 'Ewige Stadt' bezeichnet?",
+        "answer": "Rom"
+    },
+    {
+        "p1": "Die kleinste Nation",
+        "p2": "der Welt ist?",
+        "answer": "Vatikan"
+    },
+    {
+        "p1": "Das Internet wurde",
+        "p2": "in welchem Land entwickelt?",
+        "answer": "USA"
+    },
+    {
+        "p1": "Der höchste Wasserfall",
+        "p2": "der Welt ist?",
+        "answer": "Angel Falls"
+    },
+    {
+        "p1": "Welche Jahreszeit beginnt",
+        "p2": "im September in Europa?",
+        "answer": "Herbst"
+    },
+    {
+        "p1": "In welchem Ozean",
+        "p2": "liegt Madagaskar?",
+        "answer": "Indischer Ozean"
+    },
+    {
+        "p1": "Welcher Planet wird",
+        "p2": "auch 'Roter Planet' genannt?",
+        "answer": "Mars"
+    },
+    {
+        "p1": "Der Autor von",
+        "p2": "'Harry Potter' ist?",
+        "answer": "Rowling"
+    }
+]
