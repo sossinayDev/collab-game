@@ -1,5 +1,7 @@
 Haus
-Brücke
+Turm
+Bauer
+Krone
 Viereck
 Dreieck
 Regenschirm
