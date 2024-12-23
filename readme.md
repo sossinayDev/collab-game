@@ -1,9 +1,9 @@
 # Collab v1.0-beta
 ## Featuring:
-Draw-On-My-Back
-Riddle-Relay
-Animal-Forehead
-Quick-Recognizer
+* Draw-On-My-Back
+* Riddle-Relay
+* Animal-Forehead
+* Quick-Recognizer
 
 ## In following languages:
 German (DE)
